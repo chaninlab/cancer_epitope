@@ -20,4 +20,4 @@ The input files to the R scripts contains less descriptors than those mentioned 
 
 ## Bar plots on Feature importance
 
-...
+The folder *Figure_3_bar_plot_feature_importance* contains the R codes, input files and output files for re-creating Figure 3 which shows the Gini index of significant descriptors derived from the random forest model.
