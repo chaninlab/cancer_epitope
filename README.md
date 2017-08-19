@@ -5,6 +5,6 @@ This repository constitutes Supplementary files and R codes for reproducing resu
 Here is a breakdown of what this repository contains:
 * Supplementary files
 * R codes and associated input/output files
-    a. Classification modeling
-    b. Figure 3 (Bar plot comparing Gini index of significant descriptors for binary and multiple classes)
+    1. Classification modeling
+    2. Figure 3 (Bar plot comparing Gini index of significant descriptors for binary and multiple classes)
 
